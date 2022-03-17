@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100vh;
+    flex-direction: column;
+    align-content: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+    background-color:#3d2aa5;
+    color: white;
+    font-weight: bolder;
+}
+
+button{
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+    font-weight: bolder;
+}
